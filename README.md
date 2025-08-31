@@ -23,3 +23,7 @@
 👨‍💻 Autor
    Mateus Ernandes
    E-mail: mateus_ernandes@outlook.com
+
+## 🔄 Observação
+
+O projeto ainda **não está finalizado**, mas até a segunda entrega ficará registrado todas as atualizações e melhorias realizadas até sua conclusão.
