@@ -1,9 +1,11 @@
+*Projeto de um portfolio de equipe de desenvolvedores para meios de divulgação
+
 ✨ Seções do Site
 
-  1. Header fixo com logotipo ME e navegação: Works, About, Skills.
-  2. Hero com saudação & apresentação, foto circular e botão Contato.
-  3. Featured works: grid de projetos (imagem + título + ano + tags).
-  4. Skills: ícones (HTML, CSS, JS, PHP, Kotlin, Laravel).
+  1. Header fixo com logotipo e navegação: Sobre, Trabalhos, Contato e Contrate.
+  2. Hero com saudação & apresentação, imagem da equipe e botão "Nos Contrate".
+  3. Trabalhos: grid de projetos (imagem + título + ano + tags).
+  4. Sobre: descrição sobre a equipe.
   5. Contato: bloco com e-mail e campo de mensagem estático.
   6. Rodapé: ícones de redes sociais e copyright.
 
@@ -18,12 +20,8 @@
 
 🎯Design do projeto
 
-<img width="550" height="675" alt="Image" src="https://github.com/user-attachments/assets/8fdbc590-b99e-4492-92c1-7bca60b52c54" />
+<img width="531" height="831" alt="Image" src="https://github.com/user-attachments/assets/d7fc3e11-83da-44f5-811d-ac15d9fb31e3" />
 
-👨‍💻 Autor
-   Mateus Ernandes
-   E-mail: mateus_ernandes@outlook.com
+👨‍💻 Desenvolvido por
+   Mateus Ernandes, Nicolas Lobo
 
-## 🔄 Observação
-
-O projeto ainda **não está finalizado**, mas até a segunda entrega ficará registrado todas as atualizações e melhorias realizadas até sua conclusão.
