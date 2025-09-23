@@ -161,7 +161,11 @@ header .menu-icon div{
     color:#141414;
     transition: color .3s;
 }
-
+.hero-cta {
+    text-align: center;
+    margin-top: -15px;
+    margin-bottom: 60px;
+}
 
 
 /* Works Area */
@@ -293,6 +297,67 @@ header .menu-icon div{
     background-color: #dfe60f;
     color:#141414;
 }
+/* Sobre nós */
+.about {
+    background-color: #1f1f1f;
+    padding: 80px 20px;
+    text-align: center;
+}
+
+.about h2 {
+    font-family: 'Calistoga';
+    font-size: 36px;
+    margin-bottom: 40px;
+    color: #da7b08;
+}
+
+.about-content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.about-text p {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #ddd;
+    margin-bottom: 20px;
+}
+
+
+/* FOOTER */
+.footer {
+    background-color: #fff;
+    color: #141414;
+    text-align: center;
+    padding: 40px 20px;
+    margin-top: 40px;
+}
+
+.footer .social-icons {
+    margin-bottom: 15px;
+}
+
+.footer .social-icons a {
+    display: inline-block;
+    margin: 0 15px;
+    transition: transform 0.3s;
+}
+
+.footer .social-icons a:hover {
+    transform: scale(1.2); /* efeito de zoom no hover */
+}
+
+.footer .social-icons img {
+    width: 36px;   /* tamanho dos ícones */
+    height: 36px;
+    object-fit: contain;
+}
+
+.footer p {
+    font-size: 14px;
+    color: #333;
+}
+
 
 @media (max-width: 820px) {
     header nav {
